@@ -1,7 +1,7 @@
 Vicky Apostolides
 =
 
-<img src="images/Profile Picture.png" width="150">
+![Profile Picture](Profile%20Picture.png)
 
 ### Geology Major, Department of Geological and Environmental Sciences, Appalachian State University, Boone, NC
 
